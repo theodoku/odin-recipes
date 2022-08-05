@@ -1,1 +1,1 @@
-# odin-recipes
+The odin-recipes project is geared towards sharpening my skills with git and github in order to enhance my technical knowledge in web development.
