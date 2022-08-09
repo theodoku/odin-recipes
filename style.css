@@ -1,3 +1,19 @@
-p {
-    width: 16pxs;
+body {
+    background-color:cornsilk ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+}
+
+p,
+ul,
+ol {
+    width: 600px;
+}
+h1,
+h2,
+h3,
+h4{
+    display: flex;
+    justify-content:left;
+    align-items: left;
 }
